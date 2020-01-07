@@ -1,6 +1,8 @@
 [pythonanywhere链接入口](http://huimingyang.pythonanywhere.com/)
 
-项目主题：
+[代码](http://nfunm055.gitee.io/visualization_end_of_period)
+
+项目主题：本次主题为研究中国泛娱乐业的发展趋势、环境、前景。
 
 数据来源:
 
@@ -28,7 +30,7 @@
 
 泛娱乐核心产业规模
 
-数据故事与图表：（更多点击pythonanywhere链接）
+数据故事与部分图表：
 
 ![可视化1.PNG](https://upload-images.jianshu.io/upload_images/9460880-de8a358f68a69af5.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
